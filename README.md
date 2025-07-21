@@ -26,7 +26,8 @@ Swagger UI disponible en: http://localhost:8000/docs
 - `/evidencias`: Guarda aquí tus capturas para el informe
 
 ### Autores
-
-- [Coloca aquí los nombres e integrantes del grupo]
-
+- Alvaro Ricardo Maigua Coyaguillo
+- Bryan Eduardo Albuja Luque  
+- Chasiquiza Chaquinga Magaly Guadalupe 
+- Robinson Lenin Agual Andino 
 ---
